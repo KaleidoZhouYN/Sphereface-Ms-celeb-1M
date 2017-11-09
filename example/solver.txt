@@ -1,0 +1,16 @@
+step1:
+  set lr = 0.1 , lambda_base = 0 , type = SINGLE
+
+when accuracy reach 0.9:
+step2:
+  set lr = 0.1, lambda_min = 3, type = DOUBLE
+
+step3:
+  finetune lanbda_min and lr 
+
+final statue:
+  lr = 1e-5 lambda_min = 0.5 type = DOUBLE
+
+optimization style:SGD
+momentum: 0.9
+weight_decay: 0.0005
