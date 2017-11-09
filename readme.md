@@ -71,5 +71,5 @@ we reach 99.76% on LFW by our own dataset and 99.6% on MS-Celeb-1M
 
 If you find SphereFace or FN useful,please cite the link above in your paper.
 
-#Contributor
+# Contributor
 @KaleidoZhouYN @TuringKi
