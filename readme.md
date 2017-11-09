@@ -63,11 +63,11 @@ the deploy.txt at 'example' folder.You may need to add the classification layer 
 
 We do not offer slover.prototxt & log.txt but you can know the parament in solver.txt
 
-# result
+# Result
 
 we reach 99.76% on LFW by our own dataset and 99.6% on MS-Celeb-1M
 
-# cite
+# Citation
 
 If you find SphereFace or FN useful,please cite the link above in your paper.
 
