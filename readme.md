@@ -24,6 +24,12 @@ also bad for occlusion:
 
 ![](./imgs/mtcnn_occlusion/1.png)
 
+### alignment criterion
+we use the alignment offered by @happynear and the repository is here:
+
+[happynear/FaceVerification](https://github.com/happynear/FaceVerification)
+
+at https://github.com/happynear/FaceVerification/dataset/CK/align_CK.py
 
 # About noise
 
@@ -46,6 +52,11 @@ we have done the intra_class by ourselves,which contains two lists:
 ### inter-class
 
 we also do inter_class cleanning but at this stage we can't offer the cleansed list.
+
+### map list
+the map list of class_id(in the cleaned list) and corresponding person id(Ms_celeb_1M) is here:
+
+[Baidu Drive](http://pan.baidu.com/s/1o7FFWyY)
 
 # About training
 
@@ -72,4 +83,4 @@ we reach 99.76% on LFW by our own dataset and 99.6% on MS-Celeb-1M
 If you find SphereFace or FN useful,please cite the link above in your paper.
 
 # Contributor
-@KaleidoZhouYN @TuringKi
+@KaleidoZhouYN @TuringKi @Dickachu Yang
