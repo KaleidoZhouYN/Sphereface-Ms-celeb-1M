@@ -74,6 +74,21 @@ the deploy.txt at 'example' folder.You may need to add the classification layer 
 
 We do not offer slover.prototxt & log.txt but you can know the parament in solver.txt
 
+# Update at 2017/11/15
+
+## something interesting
+
+### new alignment method 
+
+alignment by MTCNN:
+
+![](./imgs/alignment_contrast/alignment_mtcnn.png)
+
+alignment by Ours:
+
+![](./imgs/alignment_contrast/alignment_ours.png)
+
+
 # Result
 
 we reach 99.76% on LFW by our own dataset and 99.6% on MS-Celeb-1M
