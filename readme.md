@@ -99,3 +99,8 @@ If you find SphereFace or FN useful,please cite the link above in your paper.
 
 # Contributor
 @KaleidoZhouYN @TuringKi @Dickachu Yang
+
+# follow up
+If you want to know more about Face recognition,please see:
+
+[More-Details-On-FaceRecognition-1](https://github.com/KaleidoZhouYN/More-Details-On-FaceRecognition-1)
